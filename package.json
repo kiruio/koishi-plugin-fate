@@ -22,22 +22,22 @@
 		}
 	},
 	"author": {
-		"name": "rumble",
-		"email": "bilirumble@outlook.com",
-		"url": "https://github.com/bilirumble"
+		"name": "yamrc",
+		"email": "yamrci@outlook.com",
+		"url": "https://github.com/Yamrc"
 	},
-	"homepage": "https://github.com/bilirumble/koishi-plugin-fate",
+	"homepage": "https://github.com/kiruio/koishi-plugin-fate",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/bilirumble/koishi-plugin-fate.git"
+		"url": "git+https://github.com/kiruio/koishi-plugin-fate.git"
 	},
 	"contributors": [
-		"bilirumble <bilirumble@outlook.com>",
+		"yamrc <yamrci@outlook.com>",
 		"NayKoishi <nyakoishi@qq.com>",
 		"axlmly <Unknown>"
 	],
 	"bugs": {
-		"url": "https://github.com/bilirumble/koishi-plugin-fate/issues"
+		"url": "https://github.com/kiruio/koishi-plugin-fate/issues"
 	},
 	"license": "MIT",
 	"keywords": [
