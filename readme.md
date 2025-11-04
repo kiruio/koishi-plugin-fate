@@ -10,6 +10,11 @@
 [![npm](https://img.shields.io/npm/v/koishi-plugin-fate?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-jrys-fix)
 </div>
 
+> [!CAUTION]
+> 这个包是我为了方便自己使用而创建的，**代码质量可能不高**</br>
+> **没有完善的测试**，主要用于个人项目</br>
+> 如果你在使用中遇到问题，欢迎提 issue，但**不保证能及时修复**
+
 ## 简介
 
 基于jrys-fix开发，优化了代码结构，实现一些新功能。
